@@ -1,0 +1,6 @@
+Title = //*[@id="gatsby-focus-wrapper"]/header/section[2]/section/h1/text()
+Subtitle = //*[@id="gatsby-focus-wrapper"]/header/section[2]/section/p/text()
+
+TitleDescription = //*[@id="gatsby-focus-wrapper"]/section[1]/h2/text()
+MainDescriptionTitle = //*[@id="gatsby-focus-wrapper"]/section[1]/section[3]/article/h3/text()
+MainDescriptionTexts = //*[@id="gatsby-focus-wrapper"]/section[1]/section[3]/article/p
